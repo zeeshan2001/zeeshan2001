@@ -46,7 +46,7 @@ just wiring an LLM to a prompt.
 
 ### 📫 Get in touch
 
-- 📧 **Email** — zeeshanshafique.te@gmail.com
+- 📧 **Email** — zeeeshan.shafique@gmail.com
 
 <!-- TODO: add your LinkedIn + portfolio URLs — restore the badges at the top and a line here. -->
 
